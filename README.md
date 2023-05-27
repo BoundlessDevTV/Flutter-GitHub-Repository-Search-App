@@ -1,16 +1,3 @@
-# github_api
+Welcome to the repository for BoundlessDev's Flutter Android App for the Github API Repository Search. This repository contains the source code for a simple and intuitive app built on Flutter that uses the Github API to search repositories. It is a key component in a series of ASMR coding tutorials available on the BoundlessDev YouTube channel (https://www.youtube.com/@BoundlessDev).
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The first video in this series (https://www.youtube.com/watch?v=cD466SLtU00&ab_channel=BoundlessDev) guides you through the basic steps of building this app. In these unique tutorials, you can listen to the gentle clicking of the keyboard as real code is being written. This particular project serves as the starting point for the next video in the series where we will be implementing a Github API User Search feature. You can either download the code directly from this repository or watch the associated video to learn how to build it yourself.
